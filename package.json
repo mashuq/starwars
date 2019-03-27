@@ -1,0 +1,25 @@
+{
+  "name": "starwars",
+  "version": "1.0.0",
+  "description": "Starwars Data View with GraphQL and Vuejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mashuq/starwars.git"
+  },
+  "author": "Mashuq Rahman",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/mashuq/starwars/issues"
+  },
+  "homepage": "https://github.com/mashuq/starwars#readme",
+  "dependencies": {
+    "apollo-server-hapi": "^2.4.8",
+    "graphql": "^14.2.0",
+    "graphql-tools": "^4.0.4",
+    "hapi": "^18.1.0"
+  }
+}
